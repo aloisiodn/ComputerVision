@@ -17,6 +17,7 @@ Para executar o programa digite
 >python req2.py
 
 Etapa de calibração: Posicione o padrão de forma que todos os pontos estejam visíveis na imagem. Para inciar a rodada de calibração, com foco na janela da imagem, pressione a tecla 's'. 
+Serão realizadas 10 capturas com intervalos de 30 frames entre elas.
 O procedimento será repetido 5 vezes.
 
 Etapa de medição: Após 5 rodadas de calibração, clique com o mouse em dois pontos de qualquer uma as imagens. Ao redor de cada ponto será desenhado um círculo. Entre os dois pontos será desenado um segmento de reta.
